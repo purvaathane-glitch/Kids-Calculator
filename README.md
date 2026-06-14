@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Kids-Calculator
+A colorful and fun calculator designed for kids to learn basic mathematics. Built using React it features , a child-friendly interface, colorful animations, and interactive elements to make learning addition, subtraction, multiplication, and division enjoyable.
+>>>>>>> 29819cff35a012e644ff2e59d58cd46ec809b143
